@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/app.min.css">
 
-    <script src="js/app.js"></script>
+    <script src="js/app.min.js"></script>
    
     <title>Document</title>
 </head>
@@ -15,10 +15,10 @@
 <body>
     <div class="container-fluid">
     <div class="h1">
-     Руководство после  перерыва и  начало работы на новом компьютере</div>
+     Руководсво после  перерыва и  начало работы на новом компьютере</div>
     <h2 class="h2">Скачиваем Sublime Text3</h2>
     <h3 class="h3">Утанавливаем плагины</h3>
-    <?php echo "HELLO, мудачьё!!!!"; ?>
+    <?php echo "HEL, мудачьё!!!!"; ?>
     <img src="images/dest/grimmy9.png">
     
     
